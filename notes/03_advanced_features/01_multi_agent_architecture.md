@@ -201,29 +201,29 @@ Task Agent (Minimal Permissions)
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Multi-Agent Architecture**: `docs/Claude_Code_分层多Agent架构完整技术文档.md`
+1. **Multi-Agent Architecture**: [Claude_Code_分层多Agent架构完整技术文档.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/Claude_Code_分层多Agent架构完整技术文档.md)
    - Complete architecture specification and implementation details
    - Agent coordination mechanisms and communication patterns
    - Performance analysis and optimization strategies
 
-2. **SubAgent Analysis**: `docs/ana_docs/task_agent_analysis.md`
+2. **SubAgent Analysis**: [task_agent_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/task_agent_analysis.md)
    - Detailed SubAgent implementation analysis
    - Task delegation strategies and load balancing
    - Isolation mechanisms and security considerations
 
-3. **Agent System Blueprint**: `docs/claude_code_agent_system_complete_blueprint.md`
+3. **Agent System Blueprint**: [claude_code_agent_system_complete_blueprint.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/claude_code_agent_system_complete_blueprint.md)
    - Implementation-ready specifications for agent system
    - Interface definitions and communication protocols
 
 ### Code References
-- **Main Agent**: `chunks/chunks.25.mjs` (nO main loop implementation)
-- **SubAgent System**: `chunks/chunks.62.mjs` (I2A SubAgent implementation)
-- **Task Agents**: `chunks/chunks.65.mjs` (Task agent implementations)
-- **Agent Coordination**: `chunks/chunks.68.mjs` (Inter-agent communication)
+- **Main Agent**: [chunks.25.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.25.mjs) (nO main loop implementation)
+- **SubAgent System**: [chunks.62.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.62.mjs) (I2A SubAgent implementation)
+- **Task Agents**: [chunks.65.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.65.mjs) (Task agent implementations)
+- **Agent Coordination**: [chunks.68.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.68.mjs) (Inter-agent communication)
 
 ### Verification Documents
-- **Architecture Verification**: `docs/ana_docs/verification_architecture.md`
-- **Agent System Analysis**: `docs/static_analysis_reports/H1_AGENT_ARCHITECTURE.md`
+- **Architecture Verification**: [verification_architecture.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_architecture.md)
+- **Agent System Analysis**: [H1_AGENT_ARCHITECTURE.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/static_analysis_reports/H1_AGENT_ARCHITECTURE.md)
 - **Multi-Agent Validation**: Cross-validation across multiple analysis documents
 
 ## 🔍 Advanced Agent Concepts

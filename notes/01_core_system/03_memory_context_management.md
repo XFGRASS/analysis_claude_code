@@ -157,30 +157,30 @@ async function compressContext(messages, preserveRatio = 0.3) {
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Main Analysis**: `Claude_Code_Agent系统完整技术解析.md` (Lines 239-448)
+1. **Main Analysis**: [Claude_Code_Agent系统完整技术解析.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/Claude_Code_Agent系统完整技术解析.md#L239-L448) (Lines 239-448)
    - Complete three-tier architecture diagrams
    - AU2 compression algorithm details
    - Performance metrics and optimization strategies
 
-2. **Memory Context Analysis**: `docs/ana_docs/memory_context_analysis.md`
+2. **Memory Context Analysis**: [memory_context_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/memory_context_analysis.md)
    - Detailed memory management implementation
    - Compression algorithm verification
    - Performance benchmarking results
 
-3. **Memory Verification**: `docs/ana_docs/memory_context_verified.md`
+3. **Memory Verification**: [memory_context_verified.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/memory_context_verified.md)
    - Final verification with 95% accuracy
    - Cross-validation of compression effectiveness
 
 ### Code References
-- **Compression Implementation**: `chunks/chunks.32.mjs` (wU2 function)
-- **Memory Management**: `chunks/chunks.38.mjs` (Memory allocation and tracking)
-- **Context Processing**: `chunks/chunks.42.mjs` (Context window management)
-- **Persistence Layer**: `chunks/chunks.55.mjs` (CLAUDE.md system)
+- **Compression Implementation**: [chunks.32.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.32.mjs) (wU2 function)
+- **Memory Management**: [chunks.38.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.38.mjs) (Memory allocation and tracking)
+- **Context Processing**: [chunks.42.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.42.mjs) (Context window management)
+- **Persistence Layer**: [chunks.55.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.55.mjs) (CLAUDE.md system)
 
 ### Verification Documents
-- **Memory Verification**: `docs/ana_docs/verification_memory.md`
-- **Context Management**: `docs/static_analysis_reports/H2_MEMORY_CONTEXT_MANAGEMENT.md`
-- **Performance Analysis**: `docs/static_analysis_reports/H2_CONTEXT_MEMORY.md`
+- **Memory Verification**: [verification_memory.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_memory.md)
+- **Context Management**: [H2_MEMORY_CONTEXT_MANAGEMENT.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/static_analysis_reports/H2_MEMORY_CONTEXT_MANAGEMENT.md)
+- **Performance Analysis**: [H2_CONTEXT_MEMORY.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/static_analysis_reports/H2_CONTEXT_MEMORY.md)
 
 ## 🔍 Advanced Memory Techniques
 

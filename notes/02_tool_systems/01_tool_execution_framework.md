@@ -219,36 +219,36 @@ Tool Request → Discovery → Validation → Security → Resource → Executio
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Main Analysis**: `Claude_Code_Agent系统完整技术解析.md` (Lines 449-625)
+1. **Main Analysis**: [Claude_Code_Agent系统完整技术解析.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/Claude_Code_Agent系统完整技术解析.md#L449-L625) (Lines 449-625)
    - Complete tool execution pipeline diagrams
    - MH1 engine implementation details
    - Security framework specifications
 
-2. **Tool Analysis**: `docs/claude_code_comprehensive_tool_analysis.md`
+2. **Tool Analysis**: [claude_code_comprehensive_tool_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/claude_code_comprehensive_tool_analysis.md)
    - Detailed tool implementation analysis
    - Tool-specific execution patterns
    - Performance optimization strategies
 
-3. **Tools Complete Analysis**: `docs/tools_complete_analysis.md`
+3. **Tools Complete Analysis**: [tools_complete_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/tools_complete_analysis.md)
    - Comprehensive tool catalog and capabilities
    - Tool interaction patterns and dependencies
 
 ### Code References
-- **MH1 Engine**: `chunks/chunks.45.mjs` (Main tool engine implementation)
-- **Tool Registry**: `chunks/chunks.48.mjs` (Tool discovery and registration)
-- **Execution Pipeline**: `chunks/chunks.52.mjs` (6-stage pipeline implementation)
-- **Security Framework**: `chunks/chunks.58.mjs` (Permission and sandbox systems)
+- **MH1 Engine**: [chunks.45.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.45.mjs) (Main tool engine implementation)
+- **Tool Registry**: [chunks.48.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.48.mjs) (Tool discovery and registration)
+- **Execution Pipeline**: [chunks.52.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.52.mjs) (6-stage pipeline implementation)
+- **Security Framework**: [chunks.58.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.58.mjs) (Permission and sandbox systems)
 
 ### Tool Specifications
-- **Tool Definitions**: `docs/code-tools/` directory
+- **Tool Definitions**: [code-tools/](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/code-tools/) directory
   - Individual tool specifications and schemas
   - Parameter validation rules
   - Security requirements per tool
 
 ### Verification Documents
-- **Tool Verification**: `docs/ana_docs/verification_tools.md`
-- **Tool Implementation**: `docs/static_analysis_reports/H3_TOOL_IMPLEMENTATION_FLOW.md`
-- **Tool Handling**: `docs/static_analysis_reports/H3_TOOL_HANDLING.md`
+- **Tool Verification**: [verification_tools.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_tools.md)
+- **Tool Implementation**: [H3_TOOL_IMPLEMENTATION_FLOW.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/static_analysis_reports/H3_TOOL_IMPLEMENTATION_FLOW.md)
+- **Tool Handling**: [H3_TOOL_HANDLING.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/static_analysis_reports/H3_TOOL_HANDLING.md)
 
 ## 🔍 Advanced Tool Concepts
 

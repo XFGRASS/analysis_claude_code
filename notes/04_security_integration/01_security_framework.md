@@ -200,17 +200,17 @@ User Role × Resource Type × Operation = Permission Decision
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Security Analysis**: `docs/Claude_Code_Sandbox_Mechanism_Deep_Analysis.md`
+1. **Security Analysis**: [Claude_Code_Sandbox_Mechanism_Deep_Analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/Claude_Code_Sandbox_Mechanism_Deep_Analysis.md)
    - Complete sandbox implementation analysis
    - Security mechanism verification and testing
    - Threat model and mitigation strategies
 
-2. **Security Implementation**: `docs/Claude_Code_Sandbox_Deobfuscated_Implementation.md`
+2. **Security Implementation**: [Claude_Code_Sandbox_Deobfuscated_Implementation.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/Claude_Code_Sandbox_Deobfuscated_Implementation.md)
    - Detailed implementation of security mechanisms
    - Code-level security analysis and verification
    - Performance impact assessment
 
-3. **Security Verification**: `docs/Claude_Code_关键机制严格验证报告.md`
+3. **Security Verification**: [Claude_Code_关键机制严格验证报告.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/Claude_Code_关键机制严格验证报告.md)
    - Comprehensive security verification report
    - Penetration testing results and findings
    - Security best practices and recommendations

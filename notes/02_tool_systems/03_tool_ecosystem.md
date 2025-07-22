@@ -274,17 +274,17 @@ Claude Code provides a comprehensive **tool ecosystem** with over **15 specializ
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Tool Analysis**: `docs/claude_code_comprehensive_tool_analysis.md`
+1. **Tool Analysis**: [claude_code_comprehensive_tool_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/claude_code_comprehensive_tool_analysis.md)
    - Complete tool catalog with detailed specifications
    - Tool implementation patterns and best practices
    - Performance analysis and optimization strategies
 
-2. **Tools Complete**: `docs/tools_complete_analysis.md`
+2. **Tools Complete**: [tools_complete_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/tools_complete_analysis.md)
    - Comprehensive analysis of all tool implementations
    - Tool interaction patterns and dependencies
    - Security considerations for each tool
 
-3. **Tool Specifications**: `docs/code-tools/` directory
+3. **Tool Specifications**: [code-tools/](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/code-tools/) directory
    - Individual tool specifications and schemas
    - Parameter validation rules and examples
    - Security requirements and implementation notes

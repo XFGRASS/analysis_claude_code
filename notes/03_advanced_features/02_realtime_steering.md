@@ -177,30 +177,30 @@ async function* agentMainLoop() {
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Real-time Steering Analysis**: `docs/Claude_Code_实时Steering机制完整技术文档.md`
+1. **Real-time Steering Analysis**: [Claude_Code_实时Steering机制完整技术文档.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/Claude_Code_实时Steering机制完整技术文档.md)
    - Complete h2A implementation analysis
    - Performance benchmarking results
    - Integration patterns and best practices
 
-2. **Steering Verification**: `docs/实时Steering机制严格源码验证报告.md`
+2. **Steering Verification**: [实时Steering机制严格源码验证报告.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/实时Steering机制严格源码验证报告.md)
    - Source code verification with 95% accuracy
    - Function call chain analysis
    - Performance validation results
 
-3. **Implementation Details**: `docs/实时Steering机制还原代码实现.md`
+3. **Implementation Details**: [实时Steering机制还原代码实现.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/实时Steering机制还原代码实现.md)
    - Reconstructed implementation code
    - Algorithm explanations and optimizations
    - Real-world usage patterns
 
 ### Code References
-- **h2A Implementation**: `chunks/chunks.30.mjs` (Core h2A class)
-- **Message Processing**: `chunks/chunks.33.mjs` (Message handling logic)
-- **Buffer Management**: `chunks/chunks.36.mjs` (Buffer allocation and management)
-- **Integration Layer**: `chunks/chunks.25.mjs` (nO loop integration)
+- **h2A Implementation**: [chunks.30.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.30.mjs) (Core h2A class)
+- **Message Processing**: [chunks.33.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.33.mjs) (Message handling logic)
+- **Buffer Management**: [chunks.36.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.36.mjs) (Buffer allocation and management)
+- **Integration Layer**: [chunks.25.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.25.mjs) (nO loop integration)
 
 ### Verification Documents
-- **Function Call Analysis**: `docs/实时Steering机制函数调用链完整分析.md`
-- **Source Verification**: `docs/实时Steering机制严格源码验证报告.md`
+- **Function Call Analysis**: [实时Steering机制函数调用链完整分析.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/实时Steering机制函数调用链完整分析.md)
+- **Source Verification**: [实时Steering机制严格源码验证报告.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/实时Steering机制严格源码验证报告.md)
 - **Performance Analysis**: Performance metrics and benchmarking results
 
 ## 🔍 Advanced Implementation Details

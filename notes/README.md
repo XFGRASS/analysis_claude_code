@@ -49,9 +49,9 @@ All sections provide valuable insights, with **Performance & Optimization** and 
 
 Each note includes specific references to source materials in `../claude_code_v_1.0.33/stage1_analysis_workspace/`:
 
-- **Main Analysis**: `Claude_Code_Agent系统完整技术解析.md`
-- **Code Chunks**: `chunks/chunks.*.mjs` files (102 total)
-- **Technical Docs**: `docs/` directory with specialized analyses
+- **Main Analysis**: [Claude_Code_Agent系统完整技术解析.md](../claude_code_v_1.0.33/stage1_analysis_workspace/Claude_Code_Agent系统完整技术解析.md)
+- **Code Chunks**: [chunks/](../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/) files (102 total)
+- **Technical Docs**: [docs/](../claude_code_v_1.0.33/stage1_analysis_workspace/docs/) directory with specialized analyses
 - **Verification Reports**: Cross-validation and accuracy reports
 
 ## 🔍 Learning Tips

@@ -105,27 +105,27 @@ Claude Code implements a sophisticated **4-layer architecture** that enables rea
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Main Analysis**: `Claude_Code_Agent系统完整技术解析.md` (Lines 15-78)
+1. **Main Analysis**: [Claude_Code_Agent系统完整技术解析.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/Claude_Code_Agent系统完整技术解析.md#L15-L78) (Lines 15-78)
    - Complete architecture overview with ASCII diagrams
    - Technology stack mapping and component relationships
 
-2. **Architecture Verification**: `docs/ana_docs/system_architecture_complete.md`
+2. **Architecture Verification**: [system_architecture_complete.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/system_architecture_complete.md)
    - Detailed component verification and cross-validation
    - Source code location references
 
-3. **Agent System Blueprint**: `docs/claude_code_agent_system_complete_blueprint.md`
+3. **Agent System Blueprint**: [claude_code_agent_system_complete_blueprint.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/claude_code_agent_system_complete_blueprint.md)
    - Implementation-ready architectural specifications
    - Component interface definitions
 
 ### Code References
-- **Core Architecture**: `chunks/chunks.1.mjs` to `chunks/chunks.15.mjs`
-- **Main Loop Implementation**: `chunks/chunks.25.mjs` (nO function)
-- **Message Queue**: `chunks/chunks.30.mjs` (h2A class)
-- **Tool Engine**: `chunks/chunks.45.mjs` (MH1 implementation)
+- **Core Architecture**: [chunks.1.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.1.mjs) to [chunks.15.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.15.mjs)
+- **Main Loop Implementation**: [chunks.25.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.25.mjs) (nO function)
+- **Message Queue**: [chunks.30.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.30.mjs) (h2A class)
+- **Tool Engine**: [chunks.45.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.45.mjs) (MH1 implementation)
 
 ### Verification Reports
-- **Cross-Validation**: `docs/CROSS_VALIDATION_REPORT.md`
-- **Final Validation**: `docs/last_analysis/FINAL_VALIDATION_REPORT.md`
+- **Cross-Validation**: [CROSS_VALIDATION_REPORT.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/CROSS_VALIDATION_REPORT.md)
+- **Final Validation**: [FINAL_VALIDATION_REPORT.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/last_analysis/FINAL_VALIDATION_REPORT.md)
 - **Accuracy**: 95% verified through multiple validation rounds
 
 ## 🎓 Learning Progression

@@ -148,30 +148,30 @@ async function* agentMainLoop(
 ## 📚 Deep Dive Study Materials
 
 ### Primary Source Documents
-1. **Main Analysis**: `Claude_Code_Agent系统完整技术解析.md` (Lines 81-236)
+1. **Main Analysis**: [Claude_Code_Agent系统完整技术解析.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/Claude_Code_Agent系统完整技术解析.md#L81-L236) (Lines 81-236)
    - Complete execution flow diagrams
    - Technical implementation details
    - Performance parameter specifications
 
-2. **Agent Loop Verification**: `docs/ana_docs/agent_loop_deep_analysis.md`
+2. **Agent Loop Verification**: [agent_loop_deep_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/agent_loop_deep_analysis.md)
    - Detailed function analysis and verification
    - Source code location mapping
    - Cross-validation results
 
-3. **Verified Analysis**: `docs/ana_docs/agent_loop_verified_analysis.md`
+3. **Verified Analysis**: [agent_loop_verified_analysis.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/agent_loop_verified_analysis.md)
    - Final verification report with 95% accuracy
    - Implementation correctness validation
 
 ### Code References
-- **Main Loop**: `chunks/chunks.25.mjs` (nO function implementation)
-- **Message Processing**: `chunks/chunks.28.mjs` (Message handling logic)
-- **Compression**: `chunks/chunks.32.mjs` (wU2 compressor implementation)
-- **Stream Generation**: `chunks/chunks.35.mjs` (wu function)
+- **Main Loop**: [chunks.25.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.25.mjs) (nO function implementation)
+- **Message Processing**: [chunks.28.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.28.mjs) (Message handling logic)
+- **Compression**: [chunks.32.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.32.mjs) (wU2 compressor implementation)
+- **Stream Generation**: [chunks.35.mjs](../../claude_code_v_1.0.33/stage1_analysis_workspace/chunks/chunks.35.mjs) (wu function)
 
 ### Verification Documents
-- **Loop Verification**: `docs/ana_docs/verification_agent_loop.md`
-- **Memory Verification**: `docs/ana_docs/verification_memory.md`
-- **Architecture Verification**: `docs/ana_docs/verification_architecture.md`
+- **Loop Verification**: [verification_agent_loop.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_agent_loop.md)
+- **Memory Verification**: [verification_memory.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_memory.md)
+- **Architecture Verification**: [verification_architecture.md](../../claude_code_v_1.0.33/stage1_analysis_workspace/docs/ana_docs/verification_architecture.md)
 
 ## 🔍 Advanced Topics
 
